@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson 4 - 4e</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        button {
+            font-weight: bold;
+            padding: 1rem 2rem;
+            border: none;
+            border-radius: 2rem;
+            font-size: 1.2rem;
+            /* transition: all 300ms; */
+        }
+        #apply{
+            background-color: rgb(10, 102, 194);
+            color: white;
+            transition: all 300ms;
+        }
+        #save{
+            background-color: transparent;
+            color: rgb(10, 102, 194);
+            border: 1px solid rgb(10, 102, 194);
+        }
+        button:hover{
+            cursor: pointer;
+        }
+        #apply:hover {
+            background-color: rgb(10, 84, 158);
+        }
+        #save:hover{
+            border-width: 2px;
+            background-color: rgba(34, 137, 240, 0.116);
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Basics - Hovers, Transitions, Shadows</h1>
+    <button id="apply">Apply on company website</button>
+    <button id="save">Save</button>
+</body>
+</html>
