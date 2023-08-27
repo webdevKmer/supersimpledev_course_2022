@@ -1,0 +1,25 @@
+form{
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: yellow;
+}
+input, button{
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border: 1px solid lightgrey;
+    border-radius: .5rem;
+}
+button{
+    border: none;
+    color: white;
+    width: 100%;
+    background-color: rgb(47, 127, 231);
+}
+#first, #last{
+    width: 43%;
+}
+#email{
+    /* display: inline-block; */
+    width: 90%;
+}

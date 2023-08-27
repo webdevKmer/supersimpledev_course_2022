@@ -1,0 +1,12 @@
+img{
+    width: 250px;
+    margin-left: 5rem;
+}
+input{
+    padding: .5rem 1rem;
+    display: inline-block;
+    width: 90%;
+    border-radius: 2rem;
+    border: none;
+    box-shadow: .2rem .2rem 1rem lightgrey;
+}

@@ -1,0 +1,10 @@
+p{
+    width: 70%;
+    display: inline-block;
+    vertical-align: middle;
+}
+button{
+    padding: .5rem 1rem;
+    vertical-align: middle;
+    text-transform: capitalize;
+}

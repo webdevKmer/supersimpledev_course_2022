@@ -1,0 +1,22 @@
+input{
+    padding: .5rem 1rem;
+    background-color: rgba(211, 211, 211, 0.562);
+    border: none;
+    display: block;
+    width: 90%;
+    margin-bottom: .5rem;
+}
+
+button{
+    padding: .5rem 1rem;
+    border: 1px solid rgba(211, 211, 211, 0.562);;
+}
+#request{
+    color: white;
+    background-color: black;
+    margin-right: 1rem;
+}
+#schedule{
+    background-color: rgba(211, 211, 211, 0.562);
+    font-weight: bold;
+}
