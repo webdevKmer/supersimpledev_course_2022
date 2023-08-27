@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+}
+.px200{
+    background-color: lawngreen;
+    /* width: 200px; */
+}
+.px75{
+    background-color: salmon;
+    /* width: 75px; */
+}
