@@ -1,0 +1,15 @@
+.col1{
+    background-color: pink;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col2{
+    background-color:lightcyan;
+    width: 200px;
+}
+.flex{
+    display: flex;
+    height: 100px;
+}
