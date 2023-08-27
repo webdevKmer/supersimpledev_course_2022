@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    margin: .5rem;
+}
+header p {
+    font-weight: bold;
+}
+button{
+    padding: .5rem 1rem;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white
+}
+
+input{
+    padding: .5rem 1rem;
+    color: white;
+    border: none; 
+    border-radius: 3rem;
+    flex: .7;
+}

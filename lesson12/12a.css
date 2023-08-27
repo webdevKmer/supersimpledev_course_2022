@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+}
+.col1{
+    background-color: lightskyblue;
+    width: 200px;
+}
+.col2{
+    background-color: lightpink;
+    width: 75px;
+}

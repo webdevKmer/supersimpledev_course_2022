@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.col1{
+    background-color: lightskyblue;
+    width: 50px;
+}
+.col2{
+    background-color: lightpink;
+    flex: 1;
+}
+.col3{
+    background-color: lightskyblue;;
+    width: 75px;
+}
