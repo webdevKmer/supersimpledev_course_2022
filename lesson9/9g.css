@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card {
+    width: 150px;
+    margin: .5rem;
+    box-shadow: 2px 2px 12px grey;
+    display: inline-block;
+}
+img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: left;
+}
+.card-description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: .5rem;
+}
+.card-description h2{
+    margin-bottom: .5rem;
+}
+.card-description p{
+    margin-bottom: 1rem;
+}
+button{
+    padding: .5rem 1rem;
+    background-color: rgba(0, 89, 255, 0.712);
+    color: white;
+    border: none;
+    border-radius: .25rem;
+}
