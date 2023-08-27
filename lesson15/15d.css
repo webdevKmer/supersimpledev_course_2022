@@ -1,0 +1,31 @@
+body{
+    height: 3000px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: .5rem 1rem;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+.box{
+    width: 320px;
+    height: 180px;
+    background-color: grey;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.timestamp{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+    padding: .25rem .5rem;
+    font-weight: bold;
+}

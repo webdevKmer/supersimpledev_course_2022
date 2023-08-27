@@ -1,0 +1,21 @@
+body{
+    height: 3000px;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    padding: .5rem 1rem;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+}
+.box{
+    width: 320px;
+    height: 180px;
+    background-color: grey;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
